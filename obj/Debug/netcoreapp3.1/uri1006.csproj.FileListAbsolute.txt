@@ -1,0 +1,13 @@
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.csprojAssemblyReference.cache
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.AssemblyInfoInputs.cache
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.AssemblyInfo.cs
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.csproj.CoreCompileInputs.cache
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.exe
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.deps.json
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.runtimeconfig.json
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.runtimeconfig.dev.json
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.dll
+C:\Users\Admin\csharp1\Uri\uri1006\bin\Debug\netcoreapp3.1\uri1006.pdb
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.dll
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.pdb
+C:\Users\Admin\csharp1\Uri\uri1006\obj\Debug\netcoreapp3.1\uri1006.genruntimeconfig.cache
